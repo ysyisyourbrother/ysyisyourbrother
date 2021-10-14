@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ysyisyourbrother&show_icons=true&theme=vue&count_private=true" alt="brandonye's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ysyisyourbrother&show_icons=true&theme=vue&count_private=true" alt="Brandonye's github stats" />
 
 ### Hi there, I'm [Brandon Ye](http://www.brandonye.tech/) 🎉
 
