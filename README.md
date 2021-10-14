@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Research Assistant at SMC@SYSU
-- 📫 How to reach me: [💬](yeshy8@mail2.sysu.edu.cn)
+- 🔭 I’m currently working on Mobile Edge Computing
 - ⚡ Go, Python, C++...
