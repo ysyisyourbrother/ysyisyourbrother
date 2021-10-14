@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Research Assistant at SMC@SYSU
-- 🔭 I’m currently working on Mobile Edge Computing
+- 🤔 Woking on Mobile Edge Computing
 - ⚡ Go, Python, C++...
