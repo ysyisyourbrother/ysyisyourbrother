@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Brandon Ye](http://www.brandonye.tech/) 🎉
 
 - 🇨🇳 Chinese
-- 🧑🏻‍💻 &nbsp;Research Assistant at SMC@SYSU
+- 🧑🏻‍💻 &nbsp;Research Assistant at SMClab@SYSU
 - 🤔 Woking on Mobile Edge Computing
 - ⚡ Go, Python, C++...
