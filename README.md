@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Brandon Ye](http://www.brandonye.tech/) 🎉
 
-- 🇨🇳 Chinese
 - 🧑🏻‍💻 Ph.D. Student at SMClab@SYSU
 - 🤔 Woking on Mobile Edge Computing
 - ⚡ Go, Python, C++...
+- 💬 I’m looking for cooperation on ML/DLsys for mobile
