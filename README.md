@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Brandon Ye](http://www.brandonye.tech/) 🎉
 
 - 🧑🏻‍💻 Ph.D. Student at SMClab@SYSU
-- 🤔 Woking on Mobile Edge Computing
+- 🤔 Woking on Parallel and Distributed Deep Learning System
 - ⚡ Go, Python, C++...
-- 💬 I’m looking for opportunity and cooperation on Mobile DLSys 
+- 💬 I’m looking for opportunity and cooperation on Deep Learning System on Mobile/DataCenter
